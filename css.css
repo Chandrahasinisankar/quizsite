@@ -9,7 +9,7 @@ body{
     margin-top: 54px;
     }
     .header {
-    padding: 15px;
+    padding: 7px;
     position: fixed;
     top: 0;
     width: 100%;
@@ -31,7 +31,8 @@ body{
     }
     .quiz-body {
     margin-top: 12px;
-    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-left: 50px;    
     color:#ffffff
     }
     .option-block-container {
